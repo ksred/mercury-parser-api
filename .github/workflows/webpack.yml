@@ -32,3 +32,4 @@ jobs:
         npm install yarn
         yarn install
         yarn build
+        yarn deploy
